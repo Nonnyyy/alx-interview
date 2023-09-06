@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Module for solving prime game question """
+""" The Module for solving prime game question """
 
 def isWinner(x, nums):
     """function that checks for the winner"""
